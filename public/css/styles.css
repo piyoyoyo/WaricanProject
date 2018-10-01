@@ -1,5 +1,5 @@
 body {
-  background: #ccc;
+  background: lightblue;
   font-size: 16px;
   font-family: Arial, sans-serif;
 }
@@ -95,5 +95,5 @@ body {
 
 #reset.hidden{
   display: none;
-  
+
 }
